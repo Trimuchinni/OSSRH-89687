@@ -1,6 +1,6 @@
 # trimString
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.Trimuchinni/TrimString/badge.svg)]
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.Trimuchinni/TrimString/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.Trimuchinni/TrimString)
 
 This repository is for publishing jar file to maven central.
 The jar file contains an @TrimString annotation which when used on a string varibale it will remove all white spaces in it.
